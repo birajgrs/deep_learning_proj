@@ -1,0 +1,25 @@
+
+# Distribution / packaging
+.Python
+
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+# Jupyter Notebook
+# .ipynb_checkpoints
+
+
+# Environments
+# .env
+# .venv
+env/
+
+
+# Exclude large file
+Colab Notebooks.h5
+
+
+# PyCharm
